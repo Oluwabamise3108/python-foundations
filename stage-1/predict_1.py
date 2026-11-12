@@ -1,0 +1,5 @@
+print("Ticket opened")
+print(5 + 3)
+print("5" + "3")
+print(type(5), type("5"))
+print(type(2.5), type(True))
